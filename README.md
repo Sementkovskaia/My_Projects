@@ -15,7 +15,7 @@ My model scored 0.76076, meaning that it was able to correctly predict 76% of th
 
 
 Tools:
-- Jupuer-Notebook.
+- Jupyter-Notebook.
 - Python:
   - Pandas
   - Plotly
