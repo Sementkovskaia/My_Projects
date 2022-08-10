@@ -17,3 +17,10 @@ Tools:
   - Pandas
   - Plotly
   - Sklearn
+  
+  
+# scraping_sreality
+
+The purpose of my work was to gain experience in parsing sites and additionally to do a little research on the analysis of apartment sales in Prague.
+
+As a result of parsing I received 5397 rows with ads. Each row contains 10 columns. It was an interesting experience to get the data from the website and also to get some insights about real estate in Prague.
