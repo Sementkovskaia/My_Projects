@@ -18,6 +18,20 @@ Tools:
   - Sklearn
   
   
+# determination_of_the_prospective_tariff
+
+Analyze tariffs and choose the best one. This project was performed as part of a training on Data Analytics. This project was interesting because I had to merge several files without loss of data or quality, as well as do some interesting work on the analysis of customer data.
+
+Tools:
+- Jupyter-Notebook.
+- Python:
+  - Pandas  
+  - Matplotlib
+  - Seaborn
+  - scipy
+
+
+
 # scraping_sreality
 
 The purpose of my work was to gain experience in parsing sites and additionally to do a little research on the analysis of apartment sales in Prague.
@@ -32,16 +46,3 @@ Tools:
   - Selenium
   - Matplotlib
   - Seaborn
-  
-  
-# determination_of_the_prospective_tariff
-
-Analyze tariffs and choose the best one. This project was performed as part of a training on Data Analytics. This project was interesting because I had to merge several files without loss of data or quality, as well as do some interesting work on the analysis of customer data.
-
-Tools:
-- Jupyter-Notebook.
-- Python:
-  - Pandas  
-  - Matplotlib
-  - Seaborn
-  - scipy
