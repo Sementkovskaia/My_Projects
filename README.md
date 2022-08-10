@@ -1,0 +1,2 @@
+# Titanic_Analysis_and_Survivor_Prediction
+Analysis and prediction of survivors
