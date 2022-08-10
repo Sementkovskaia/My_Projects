@@ -1,5 +1,7 @@
 # Titanic
 
+Analysis and prediction of survivors
+
 This project was created for the Kaggle competition.  The main goal is to predict which of the passengers survived and which did not. 
 
 There are two data sets: `train.csv`, `test.csv`. Train.csv contains data about a subset of passengers on board (891 to be exact) and, importantly, will show whether or not they survived, which is also known as "ground truth". The `test.csv` dataset contains similar information, but does not reveal the "ground truth" for each passenger. 
