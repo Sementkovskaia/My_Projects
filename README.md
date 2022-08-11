@@ -1,6 +1,6 @@
 # Titanic
 
-Analysis and prediction of survivors
+Analysis and prediction of survivors, link to Kaggle link https://www.kaggle.com/code/krtistinasement/survival-on-the-titanic-analysis-and-prediction
 
 This project was created for the Kaggle competition.  The main goal is to predict which of the passengers survived and which did not. 
 
