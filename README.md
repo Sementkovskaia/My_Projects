@@ -1,3 +1,34 @@
+
+# determination_of_the_prospective_tariff
+
+Analyze tariffs and choose the best one. This project was performed as part of a training on Data Analytics. This project was interesting because I had to merge several files without loss of data or quality, as well as do some interesting work on the analysis of customer data.
+
+Tools:
+- Jupyter-Notebook.
+- Python:
+  - Pandas  
+  - Matplotlib
+  - Seaborn
+  - scipy
+
+
+# scraping_sreality
+
+The purpose of my work was to gain experience in parsing sites and additionally to do a little research on the analysis of apartment sales in Prague.
+
+As a result of parsing I received 5397 rows with ads. Each row contains 10 columns. It was an interesting experience to get the data from the website and also to get some insights about real estate in Prague.
+
+Tools:
+- Jupyter-Notebook.
+- Python:
+  - Pandas
+  - BeautifulSoup
+  - Selenium
+  - Matplotlib
+  - Seaborn
+
+
+
 # Titanic
 
 Analysis and prediction of survivors, link to Kaggle link https://www.kaggle.com/code/krtistinasement/survival-on-the-titanic-analysis-and-prediction
@@ -16,33 +47,3 @@ Tools:
   - Pandas
   - Plotly
   - Sklearn
-  
-  
-# determination_of_the_prospective_tariff
-
-Analyze tariffs and choose the best one. This project was performed as part of a training on Data Analytics. This project was interesting because I had to merge several files without loss of data or quality, as well as do some interesting work on the analysis of customer data.
-
-Tools:
-- Jupyter-Notebook.
-- Python:
-  - Pandas  
-  - Matplotlib
-  - Seaborn
-  - scipy
-
-
-
-# scraping_sreality
-
-The purpose of my work was to gain experience in parsing sites and additionally to do a little research on the analysis of apartment sales in Prague.
-
-As a result of parsing I received 5397 rows with ads. Each row contains 10 columns. It was an interesting experience to get the data from the website and also to get some insights about real estate in Prague.
-
-Tools:
-- Jupyter-Notebook.
-- Python:
-  - Pandas
-  - BeautifulSoup
-  - Selenium
-  - Matplotlib
-  - Seaborn
